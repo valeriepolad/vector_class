@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		41848F2A2092F156007C8411 /* vector_class */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = vector_class; sourceTree = BUILT_PRODUCTS_DIR; };
 		41848F2D2092F156007C8411 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		41848F342092F714007C8411 /* pic10b_vector.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = pic10b_vector.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				41848F2D2092F156007C8411 /* main.cpp */,
+				41848F342092F714007C8411 /* pic10b_vector.h */,
 			);
 			path = vector_class;
 			sourceTree = "<group>";
